@@ -1,2 +1,18 @@
-# chatgpt-generated-text-detection-corpus
-ChatGPT Generated Text Detection Corpus
+# ChatGPT Generated Text Detection Corpus
+
+Hello! And thank you for being here!
+
+In this repository you may find the following:
+
+ ``Human`` and ``ChatGPT`` written essays on the given ``126`` different topics. These are located in their respective folders inside the main folder of the application.
+
+
+``Human essays`` were extracted automatically from [this](https://englishclubmskh.files.wordpress.com/2018/09/toefl-essays.pdf) PDF which is a collection of TOEFL essays.
+
+``ChatGPT essays`` were retrieved automatically from the ChatGPT Api using [this](https://github.com/acheong08/ChatGPT) client.
+
+It's worth noting that, as a piece of meta-data, each line in each file represents a paragraph of essay.
+
+Furthermore, you may find the ``126 asked questions`` in [this](https://github.com) file.
+
+This dataset was used in our work ``ChatGPT Generated Text Detection`` which is published [here](https://github.com).
