@@ -11,7 +11,7 @@ In this repository you may find the following:
 
 ``ChatGPT essays`` were retrieved automatically from the ChatGPT Api using [this](https://github.com/acheong08/ChatGPT) client.
 
-It's worth noting that, as a piece of meta-data, each line in each file represents a paragraph of essay.
+It's worth mentioning that, as a meta-data point, each line in each file corresponds to a paragraph of that essay, and the file name for each essay aligns with the question number.
 
 Furthermore, you may find the ``126 asked questions`` in [this](https://github.com) file.
 
