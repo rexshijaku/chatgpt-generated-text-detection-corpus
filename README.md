@@ -4,7 +4,7 @@ Hello! And thank you for being here!
 
 In this repository you may find the following:
 
- ``Human`` and ``ChatGPT`` written essays on the given ``126`` different topics. These are located in their respective folders inside the main folder of the application.
+ ``Human`` and ``ChatGPT`` written essays on the given ``126`` different topics. These essays are located in their respective folders inside the main folder of the application.
 
 
 ``Human essays`` were extracted automatically from [this](https://englishclubmskh.files.wordpress.com/2018/09/toefl-essays.pdf) PDF which is a collection of TOEFL essays.
