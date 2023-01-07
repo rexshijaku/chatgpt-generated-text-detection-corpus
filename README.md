@@ -15,4 +15,4 @@ It's worth mentioning that, as a meta-data point, each line in each file corresp
 
 Furthermore, you may find the ``126 asked questions`` in [this](https://github.com) file.
 
-This dataset was used in our work ``ChatGPT Generated Text Detection`` which is published [here](https://github.com).
+This dataset was used in our work ``ChatGPT Generated Text Detection`` which is published [here(https://www.researchgate.net/publication/366898047_ChatGPT_Generated_Text_Detection).
