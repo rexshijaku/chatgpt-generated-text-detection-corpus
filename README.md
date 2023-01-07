@@ -13,6 +13,6 @@ In this repository you may find the following:
 
 It's worth mentioning that, as a meta-data point, each line in each file corresponds to a paragraph of that essay, and the file name for each essay aligns with the question number.
 
-Furthermore, you may find the ``126 asked questions`` in [this](https://github.com) file.
+Furthermore, you may find the ``126 asked questions`` in [this](https://github.com/rexshijaku/chatgpt-generated-text-detection-corpus/blob/main/full_texts/questions.txt) file.
 
 This dataset was used in our work ``ChatGPT Generated Text Detection`` which is published [here](https://www.researchgate.net/publication/366898047_ChatGPT_Generated_Text_Detection).
